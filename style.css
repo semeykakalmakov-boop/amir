@@ -1,0 +1,40 @@
+body{
+background-color: rgba(0, 0, 0, 0.938);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+.block{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(160, 220, 244);
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction:column;
+    gap: 30x;
+    border-radius: 19px;
+
+
+}
+
+button{
+    width: 300px;
+    height: 40px;
+    gap: 10px;
+    border-radius: 19px;
+    background-color: rgb(246, 245, 245);
+}
+img{
+    width: 300px;
+    height: 150px;
+    display: flex;
+border-radius: 19px;
+}
+
+h3{
+width: 300px;
+
+}
